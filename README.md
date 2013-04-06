@@ -2,6 +2,8 @@
 
 Installs [pgAdmin3](http://www.pgadmin.org/), the Postgres GUI via Boxen.
 
+[![Build Status](https://travis-ci.org/dennisreimann/puppet-pgadmin3.png)](https://travis-ci.org/dennisreimann/puppet-pgadmin3)
+
 ## Usage
 
 ```puppet
