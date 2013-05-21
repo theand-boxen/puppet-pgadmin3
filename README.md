@@ -7,12 +7,12 @@ Installs [pgAdmin3](http://www.pgadmin.org/), the Postgres GUI via Boxen.
 ## Usage
 
 ```puppet
-include pgAdmin3
+include pgadmin3
 ```
 
 ## Required Puppet Modules
 
-* `boxen`
+* `boxen` (>= 2.3.1, because of appdmg_eula provider requirement)
 
 ## Development
 
