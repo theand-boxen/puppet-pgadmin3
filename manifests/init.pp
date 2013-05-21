@@ -5,7 +5,7 @@
 #   include pgadmin3
 class pgadmin3 {
   package { 'pgadmin3':
-    provider => 'appdmg',
+    provider => 'appdmg_eula',
     source   => 'http://ftp.postgresql.org/pub/pgadmin3/release/v1.16.1/osx/pgadmin3-1.16.1.dmg',
   }
 }
