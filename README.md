@@ -1,8 +1,8 @@
 # pgAdmin3 Puppet Module for Boxen
 
-Installs [pgAdmin3](http://www.pgadmin.org/), the Postgres GUI via Boxen.
+[![Build Status](https://travis-ci.org/boxen/puppet-pgadmin3.png)](https://travis-ci.org/boxen/puppet-pgadmin3)
 
-[![Build Status](https://travis-ci.org/dennisreimann/puppet-pgadmin3.png)](https://travis-ci.org/dennisreimann/puppet-pgadmin3)
+Installs [pgAdmin3](http://www.pgadmin.org/), the Postgres GUI via Boxen.
 
 ## Usage
 
